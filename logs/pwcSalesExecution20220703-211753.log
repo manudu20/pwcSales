@@ -1,0 +1,52 @@
+2022-07-03 21:17:53.457 INFO pwcSalesSolution - <module>: pwcSalesSolution Started
+2022-07-03 21:17:53.458 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 21:17:53.460 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 21:17:53.461 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2003.json', 'C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2004.json', 'C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2005.json']
+2022-07-03 21:17:53.476 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2003.json read successfully
+2022-07-03 21:17:53.481 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2004.json read successfully
+2022-07-03 21:17:53.496 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2005.json read successfully
+2022-07-03 21:17:53.498 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2005.json read successfully
+2022-07-03 21:17:53.499 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 21:17:53.500 INFO pwcSalesSolution - setupData: salesDF shape is (1519, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 21:17:53.503 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 21:17:53.506 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 21:17:53.517 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 21:17:53.519 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 21:17:53.522 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 21:17:53.522 INFO pwcSalesSolution - setupData: finalDF shape is (1519, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES', 'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'], dtype='object')
+2022-07-03 21:17:54.130 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 21:17:54.131 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 21:17:54.131 INFO pwcSalesSolution - writeOutput: function writeOutput started
+2022-07-03 21:17:54.132 INFO pwcSalesSolution - writedailyFile: function writedailyFile started
+2022-07-03 21:17:54.134 INFO pwcSalesSolution - writedailyFile: No of files generated: 243
+2022-07-03 21:17:58.086 INFO pwcSalesSolution - writedailyFile: function writedailyFile ended
+2022-07-03 21:17:58.087 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue started
+2022-07-03 21:17:58.088 INFO pwcSalesSolution - findAndWriteSaleValue: condCol is None
+2022-07-03 21:17:58.090 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue ended
+2022-07-03 21:17:58.090 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue started
+2022-07-03 21:17:58.092 INFO pwcSalesSolution - findAndWriteSaleValue: condCol is STATUS
+2022-07-03 21:17:58.094 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue ended
+2022-07-03 21:17:58.094 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue started
+2022-07-03 21:17:58.096 INFO pwcSalesSolution - findAndWriteSaleValue: condCol is STATUS
+2022-07-03 21:17:58.098 INFO pwcSalesSolution - findAndWriteSaleValue: function findAndWriteSaleValue ended
+2022-07-03 21:17:59.325 INFO pwcSalesSolution - AggWriteData: function AggWriteData started
+2022-07-03 21:17:59.372 INFO pwcSalesSolution - AggWriteData: function AggWriteData ended
+2022-07-03 21:17:59.373 INFO pwcSalesSolution - AggWriteData: function AggWriteData started
+2022-07-03 21:17:59.432 INFO pwcSalesSolution - AggWriteData: function AggWriteData ended
+2022-07-03 21:17:59.437 INFO pwcSalesSolution - aggWriteStatusData: function aggWriteStatusData started
+2022-07-03 21:17:59.497 INFO pwcSalesSolution - aggWriteStatusData: function aggWriteStatusData ended
+2022-07-03 21:17:59.498 INFO pwcSalesSolution - aggWriteStatusData: function aggWriteStatusData started
+2022-07-03 21:17:59.556 INFO pwcSalesSolution - aggWriteStatusData: function aggWriteStatusData ended
+2022-07-03 21:17:59.558 INFO pwcSalesSolution - AggWriteData: function AggWriteData started
+2022-07-03 21:17:59.697 INFO pwcSalesSolution - AggWriteData: function AggWriteData ended
+2022-07-03 21:17:59.701 INFO pwcSalesSolution - findAndWriteSalesTrend: function findAndWriteSalesTrend started
+2022-07-03 21:17:59.815 INFO pwcSalesSolution - findAndWriteSalesTrend: function findAndWriteSalesTrend ended
+2022-07-03 21:17:59.825 INFO pwcSalesSolution - CalculateAndWriteDiscount: function CalculateAndWriteDiscount started
+2022-07-03 21:17:59.928 INFO pwcSalesSolution - discountTable: function discountTable ended
+2022-07-03 21:17:59.930 INFO pwcSalesSolution - CalculateAndWriteDiscount: discount table initialized
+2022-07-03 21:17:59.931 INFO pwcSalesSolution - CalculateAndWriteDiscount: Allowed product Lines are ['Vintage Cars', 'Classic Cars', 'Trucks and Buses', 'Motorcycles']
+2022-07-03 21:17:59.934 INFO pwcSalesSolution - CalculateAndWriteDiscount: Sales Data filtered with product Lines
+2022-07-03 21:18:02.983 INFO pwcSalesSolution - CalculateAndWriteDiscount: Discount calculated for sales data
+2022-07-03 21:18:03.359 INFO pwcSalesSolution - CalculateAndWriteDiscount: function CalculateAndWriteDiscount ended
+2022-07-03 21:18:03.364 INFO pwcSalesSolution - writeOutput: function writeOutput ended
+2022-07-03 21:18:03.365 INFO pwcSalesSolution - <module>: pwcSalesSolution Completed

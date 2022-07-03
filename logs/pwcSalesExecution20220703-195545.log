@@ -1,0 +1,27 @@
+2022-07-03 19:55:45.662 INFO pwcSalesSolution - <module>: pwcSalesSolution Started
+2022-07-03 19:55:45.664 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 19:55:45.667 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 19:55:45.668 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2003.json', 'C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2004.json', 'C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\data\\SalesData_2005.json']
+2022-07-03 19:55:45.687 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2003.json read successfully
+2022-07-03 19:55:45.700 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2004.json read successfully
+2022-07-03 19:55:45.708 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2005.json read successfully
+2022-07-03 19:55:45.709 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\data\SalesData_2005.json read successfully
+2022-07-03 19:55:45.711 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 19:55:45.711 INFO pwcSalesSolution - setupData: salesDF shape is (1519, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 19:55:45.715 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 19:55:45.719 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 19:55:45.738 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 19:55:45.740 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 19:55:45.740 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 19:55:45.742 INFO pwcSalesSolution - setupData: finalDF shape is (1519, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES', 'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'], dtype='object')
+2022-07-03 19:55:46.443 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 19:55:46.443 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 19:55:46.444 INFO pwcSalesSolution - writeOutput: function writeOutput started
+2022-07-03 19:55:46.445 INFO pwcSalesSolution - writedailyFile: function writedailyFile started
+2022-07-03 19:55:46.447 INFO pwcSalesSolution - writedailyFile: No of files generated: 243
+2022-07-03 19:55:46.451 ERROR pwcSalesSolution - writedailyFile: function writedailyFile has errorsUnable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2022-07-03 19:55:46.452 INFO pwcSalesSolution - writedailyFile: function writedailyFile ended

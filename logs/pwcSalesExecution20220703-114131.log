@@ -1,0 +1,4 @@
+2022-07-03 11:41:31.259 INFO pwcSalesSolution - <module>: pwcSalesSoltion Started
+2022-07-03 11:41:31.260 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 11:41:31.261 ERROR pwcSalesSolution - setupData: function setupData has errorsread_json() missing 2 required positional arguments: 'logDir' and 'logFileName'
+2022-07-03 11:41:31.261 INFO pwcSalesSolution - setupData: function setupData ended

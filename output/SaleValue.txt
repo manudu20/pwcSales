@@ -1,0 +1,6 @@
+Total Value of orders is : 3694586.79
+
+Total Value of Cancelled orders is : 83495.49
+
+Total Value of On Hold orders is : 91710.2
+

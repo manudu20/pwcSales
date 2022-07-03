@@ -1,0 +1,378 @@
+2022-07-03 11:16:01.109 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:16:01.109 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:16:01.124 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:16:01.124 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:16:01.124 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:16:14.021 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:16:14.021 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:16:14.037 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:16:14.037 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:16:14.037 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:45:51.086 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:45:51.086 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:45:51.102 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:45:51.102 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:45:51.102 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:46:07.250 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:46:07.250 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:46:07.250 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:46:07.250 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:46:07.250 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:51:06.090 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:51:06.091 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:51:06.101 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:06.102 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:06.102 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:51:26.759 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:51:26.760 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:51:26.773 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:26.774 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:26.774 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:51:26.781 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:51:26.782 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:51:26.786 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:26.786 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:51:26.787 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:52:22.061 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:52:22.063 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:52:22.075 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:22.076 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:22.076 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:52:22.082 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:52:22.083 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:52:22.087 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:22.088 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:22.088 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:52:45.854 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:52:45.855 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:52:45.866 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:45.867 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:45.868 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:52:45.874 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:52:45.875 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:52:45.880 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:45.880 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:52:45.881 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:52:45.882 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:52:45.886 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:52:45.888 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:52:45.890 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:52:45.890 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:54:24.246 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:54:24.248 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:54:24.259 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:54:24.259 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:54:24.260 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:54:24.266 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:54:24.267 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:54:24.272 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:54:24.273 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:54:24.274 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:54:24.276 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:54:24.278 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:54:24.280 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:54:24.281 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:54:24.282 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:58:16.153 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:58:16.154 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:58:16.170 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:16.171 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:16.171 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:58:16.178 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:58:16.179 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:58:16.186 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:16.187 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:16.187 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:58:16.190 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:58:16.195 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:58:16.196 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:58:16.198 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:58:16.198 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:58:46.273 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:58:46.274 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:58:46.287 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.288 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.288 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:58:46.296 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:58:46.297 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:58:46.304 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.305 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.306 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:58:46.309 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:58:46.313 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:58:46.315 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:58:46.317 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:58:46.318 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:58:46.324 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 11:58:46.326 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:58:46.327 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:58:46.334 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.335 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:58:46.335 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:58:46.336 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 11:58:46.338 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:58:46.341 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:58:46.343 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:58:46.345 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:58:46.345 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:58:46.346 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 11:58:46.352 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 11:58:46.353 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 11:59:26.644 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:59:26.646 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:59:26.659 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.660 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.660 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:59:26.665 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:59:26.666 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:59:26.672 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.672 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.673 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:59:26.676 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:59:26.679 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:59:26.680 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:59:26.681 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:59:26.681 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:59:26.687 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 11:59:26.689 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 11:59:26.691 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 11:59:26.697 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.697 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 11:59:26.698 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 11:59:26.698 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 11:59:26.700 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 11:59:26.702 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 11:59:26.703 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 11:59:26.705 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 11:59:26.705 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 11:59:26.705 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 11:59:26.711 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 11:59:26.711 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:53:38.120 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:53:38.123 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:53:38.136 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.138 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.138 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:53:38.144 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:53:38.145 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:53:38.150 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.150 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.150 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:53:38.154 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:53:38.156 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:53:38.156 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:53:38.159 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:53:38.159 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:53:38.165 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:53:38.167 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:53:38.168 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:53:38.174 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.175 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:53:38.175 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:53:38.175 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:53:38.176 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:53:38.177 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:53:38.177 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:53:38.181 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:53:38.181 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:53:38.181 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:53:38.186 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:53:38.186 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:55:50.323 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:55:50.324 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:55:50.336 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.337 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.337 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:55:50.342 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:55:50.343 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:55:50.350 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.350 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.350 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:55:50.354 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:55:50.357 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:55:50.359 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:55:50.361 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:55:50.361 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:55:50.367 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:55:50.370 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:55:50.370 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:55:50.375 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.377 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:55:50.377 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:55:50.378 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:55:50.380 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:55:50.382 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:55:50.383 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:55:50.385 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:55:50.385 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:55:50.386 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:55:50.391 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:55:50.392 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:57:55.530 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:57:55.531 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:57:55.534 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.534 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.534 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:57:55.548 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:57:55.549 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:57:55.555 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.555 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.555 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:57:55.560 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:57:55.561 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:57:55.561 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:57:55.561 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:57:55.561 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:57:55.568 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:57:55.576 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:57:55.577 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:57:55.583 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:57:55.584 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:08.289 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:08.291 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:08.307 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.308 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.308 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:08.317 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:08.318 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:08.325 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.326 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.326 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:08.330 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:08.335 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:08.336 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:08.338 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:08.338 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:08.343 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:58:08.349 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:08.350 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:08.357 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.357 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:08.357 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:08.359 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:58:08.362 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:08.365 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:08.367 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:08.369 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:08.370 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:08.370 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:58:08.377 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:08.377 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:43.188 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:43.188 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:43.205 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.205 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.205 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:43.218 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:43.219 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:43.226 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.226 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.226 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:43.230 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:43.235 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:43.235 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:43.235 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:43.235 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:43.255 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:58:43.257 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:43.257 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:43.267 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.267 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:43.267 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:43.267 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:58:43.267 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:43.274 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:43.276 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:43.281 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:43.281 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:43.282 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:58:43.287 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:43.287 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:57.214 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:57.215 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:57.224 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.224 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.224 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:57.235 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:57.239 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:57.243 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.243 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.243 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:57.250 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:57.255 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:57.256 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:57.256 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:57.256 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:57.269 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:58:57.272 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:58:57.273 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:58:57.279 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.280 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:58:57.280 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:58:57.280 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:58:57.284 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:58:57.285 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:59:31.641 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:59:31.643 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:59:31.645 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.645 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.645 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:59:31.659 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:59:31.660 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:59:31.666 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.666 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.666 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:59:31.672 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:59:31.675 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:59:31.677 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:59:31.677 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:59:31.677 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:59:31.685 INFO pwcSalesSolution - setupData: function setupData started
+2022-07-03 20:59:31.687 INFO pwcSalesSolution - read_json: function read_json started
+2022-07-03 20:59:31.687 INFO pwcSalesSolution - read_json: Json files are ['C:\\Users\\n421492\\PycharmProjects\\Projects\\pwcSales\\tests\\testSalesData.json']
+2022-07-03 20:59:31.688 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.688 INFO pwcSalesSolution - read_json: Json file C:\Users\n421492\PycharmProjects\Projects\pwcSales\tests\testSalesData.json read successfully
+2022-07-03 20:59:31.688 INFO pwcSalesSolution - read_json: function read_json ended
+2022-07-03 20:59:31.688 INFO pwcSalesSolution - setupData: salesDF shape is (4, 3) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'attributes'], dtype='object')
+2022-07-03 20:59:31.694 INFO pwcSalesSolution - normalizeData: function normalizeData started
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - normalizeData: DataFrame exploding done
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - normalizeData: json df normalization done
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - normalizeData: joining explode and normalize dataframe done
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - normalizeData: function normalizeData ended
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - setupData: finalDF shape is (4, 9) and columns are : Index(['ORDERNUMBER', 'PRODUCTCODE', 'QUANTITYORDERED', 'PRICEEACH', 'SALES',
+       'ORDERDATE', 'STATUS', 'PRODUCTLINE', 'MSRP'],
+      dtype='object')
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - setupData: function setupData ended
+2022-07-03 20:59:31.698 INFO pwcSalesSolution - setupData: function setupData ended

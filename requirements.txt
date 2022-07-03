@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pytest
+argparse
+datetime
+sys
+os
+pyarrow
